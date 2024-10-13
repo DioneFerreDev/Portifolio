@@ -1,0 +1,12 @@
+ arrumar os links do hidro após postar no git ok
+ fazer as animações do site ok
+ fazer email marketin OK
+ fazer o efeito de languages OK
+ trocar a imagem do portifolio pois esta loream ypsum OK
+ traduzir o menu mobile OK
+ fazer slides OK
+ 
+ inserir corretamente o ip na  classe antes de subir ao server  OK
+ perguntar para o suporte da hospedagem o host para o disparo de email OK
+ arrumar os links do site para que fique dione-dev.ferrteix.com OK
+ arrumar os links do portifolio após postar no git e por o site no ar
