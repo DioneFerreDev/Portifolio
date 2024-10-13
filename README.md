@@ -1,6 +1,6 @@
 
 
-## PONTUA MAIS (version Portuguese) 🔥 !!!
+## Portifólio (version Portuguese) 🔥 !!!
 
 Projeto desenvolvido com intuito de expor meus trabalhos e estudos.
 Com efeitos utilizando javascript o portifolio ainda conta com uma área do adm
